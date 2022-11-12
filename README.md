@@ -17,7 +17,7 @@ Modelo segundo parcial programación III - Concesionaria de autos
 ![image](https://user-images.githubusercontent.com/77855994/201477107-f304c34a-b923-4462-a8ab-2966173abba8.png)
 
 
-<h2>Lista de cosas que podrian salir mal:</h2>
+<h2>Lista de cosas por las que podria salir algo mal:</h2>
 
 1. No esta instalado el Composer, lo bajas desde la pagina o te miras un tutorial youtubeano. <br>
 
