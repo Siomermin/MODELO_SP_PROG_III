@@ -13,34 +13,6 @@ require_once __DIR__ . "/../poo/MW.php";
 
 $app = AppFactory::create();
 
-// $app->post('/usuarios', \Usuario::class . ':AgregarUno')
-// ->add(\MW::class . '::VerificarCorreo')
-// ->add(\MW::class . '::ValidarParametrosVacios')
-// ->add(\MW::class . ':ValidarCorreoYClave');
-
-// $app->get('/', \Usuario::class . ':TraerTodos');
-
-// $app->post("/", \Auto::class . ':AgregarUno')
-//   ->add(\MW::class . ':VerificarPrecioYColor');
-
-// $app->get('/autos', \Auto::class . ':TraerTodos');
-
-//  $app->post("/login", \Usuario::class . ':VerificarUsuario')
-//   ->add(\MW::class . ':VerificarSiExisteUsuario')
-//   ->add(\MW::class . '::ValidarParametrosVacios')
-//   ->add(\MW::class . ':ValidarCorreoYClave');
-// $app->get("/login", \Usuario::class . ':ChequearJWT');
-
-// $app->delete("/", \Auto::class . ':BorrarUno')
-//   ->add(\MW::class . ':ChequearJWT')
-//   ->add(\MW::class . '::VerificarPropietario');
-
-// $app->put("/", \Auto::class . ':ModificarUno')
-//   ->add(\MW::class . ':ChequearJWT')
-//   ->add(\MW::class . ':VerificarEncargado');
-// PDF
-// $app->get("/pdf", \Usuario::class . ':ListarPdf');
-
 $app->post('/usuarios', \Usuario::class . ':AgregarUno')
   ->add(\MW::class . '::VerificarCorreo')
   ->add(\MW::class . '::ValidarParametrosVacios')
