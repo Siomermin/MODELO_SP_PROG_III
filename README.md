@@ -1,17 +1,34 @@
 # MODELO_SP_PROG_III
 Modelo segundo parcial programación III - Concesionaria de autos
 
-1.
+<h1>Como instalar Slim y levantar el servidor web:</h1>
+
+<b>1.</b>
 ![image](https://user-images.githubusercontent.com/77855994/201477038-a0eddafd-4b8d-46bd-970d-014483716480.png)
 
-2.
+<b>2.</b>
 ![image](https://user-images.githubusercontent.com/77855994/201477056-be540162-b9bc-43cd-9865-addc54b1efdf.png)
 
-3.
+<b>3.</b>
 ![image](https://user-images.githubusercontent.com/77855994/201477073-3d0dc522-bbe5-437e-9667-55b56d0d02ce.png)
 
-4.
+<b>4.</b>
 ![image](https://user-images.githubusercontent.com/77855994/201477099-6bd8378a-73d6-4938-a5e8-1bf892c20a36.png)
 ![image](https://user-images.githubusercontent.com/77855994/201477107-f304c34a-b923-4462-a8ab-2966173abba8.png)
+
+
+<h2>Lista de cosas que podrian salir mal:</h2>
+
+<b>1.</b>
+Dejaste el virtual host comentado, sacale los #.
+![image](https://user-images.githubusercontent.com/77855994/201477299-d98cc1bf-8e03-46ed-a64f-b7224f4fde4c.png)
+
+
+<b>2.</b>
+No levantaste el Apache.
+![image](https://user-images.githubusercontent.com/77855994/201477340-87737419-e83c-443f-b201-d2d042ae6898.png)
+
+
+
 
 
