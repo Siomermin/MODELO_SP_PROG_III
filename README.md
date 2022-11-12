@@ -24,7 +24,7 @@ Modelo segundo parcial programación III - Concesionaria de autos
 2. Dejaste el virtual host comentado, sacale los #. <br>
 ![image](https://user-images.githubusercontent.com/77855994/201477299-d98cc1bf-8e03-46ed-a64f-b7224f4fde4c.png)
 
-3. No levantaste el Apache. <br>
+3. No levantaste el Apache, pasa en las mejores familias.<br>
 ![image](https://user-images.githubusercontent.com/77855994/201477340-87737419-e83c-443f-b201-d2d042ae6898.png)
 
 
