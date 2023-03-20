@@ -1,5 +1,6 @@
 # MODELO_SP_PROG_III
 Modelo segundo parcial programación III - Concesionaria de autos
+PHP - Slim Framework para la creacion de API Rest - PDO - MW - JWT
 
 <h1>Como instalar Slim y levantar el servidor web:</h1>
 
